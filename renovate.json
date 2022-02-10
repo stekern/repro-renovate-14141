@@ -3,6 +3,6 @@
   "automerge": true,
   "automergeType": "branch",
   "schedule": ["at any time"],
-  "ignoreTests": true
+  "ignoreTests": true,
+  "transitiveRemediation": true
 }
-
